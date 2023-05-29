@@ -41,6 +41,7 @@ When prompted:<br>
 <br>
 
 ### If you type a champion name, it queries the api for the champion_id (the name from the table) and returns the queried champion's stats
+(Yes, I am aware that Wukong is MonkeyKing on the table. This is because the api returns MonkeyKing as the champion_id for Wukong.)
 <img src="images/screenshot3.JPG" alt="screenshot3" width="1400" />
 <br>
 
