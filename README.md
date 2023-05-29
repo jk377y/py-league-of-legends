@@ -36,7 +36,7 @@ When prompted:<br>
 <br>
 <br>
 
-### The api response returns 162 champions (although, I'm pretty sure there are 163 in the table ~ *shrug* ~)
+### The api response returns 162 champions (although, I'm pretty sure there are 163 in the table ~shrug~)
 <img src="images/screenshot2.JPG" alt="screenshot2" width="800" />
 <br>
 
