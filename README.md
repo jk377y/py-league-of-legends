@@ -58,4 +58,7 @@ When prompted:<br>
 <br>Information on this license can be found at: (https://opensource.org/licenses/MIT)
 <br>
 <br>
+## *Credits*
+RIOT GAMES (League of Legends) - https://www.leagueoflegends.com/en-us/?utm_medium=card1%2Bwww.riotgames.com&utm_source=riotbar
+<br>
 <h2>This application is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated properties are trademarks or registered trademarks of Riot Games, Inc</h2>
