@@ -36,7 +36,7 @@ When prompted:<br>
 <br>
 <br>
 
-### The api response returns 162 champions
+### The api response returns 162 champions (although, I'm pretty sure there are 163 in the table *shrug*)
 <img src="images/screenshot2.JPG" alt="screenshot2" width="800" />
 <br>
 
@@ -55,3 +55,6 @@ When prompted:<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 <br>Copyright (c) 2023 James Kelly
 <br>Information on this license can be found at: (https://opensource.org/licenses/MIT)
+<br>
+<br>
+<h2>This application is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated properties are trademarks or registered trademarks of Riot Games, Inc</h2>
