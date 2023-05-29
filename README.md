@@ -22,7 +22,7 @@ This is a simple Python app that uses the requests module to query the League of
 
 ### ***Some notes about the Python f-strings:***<br>
  - The f-string is basically the Javascript equivalent of a template literal (created with backticks) which allows the embedding of expressions within strings.<br>
-`champion_stats_url = f"http://ddragon.leagueoflegends.com/cdn/13.10.1/data/en_US/champion/`{champion_id}`.json"`
+<img src="images/screenshot4.JPG" alt="screenshot4"/>
 <br>
 
 ## *Installation & Usage*
